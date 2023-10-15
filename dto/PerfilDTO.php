@@ -8,7 +8,7 @@
 /**
  * Description of PerfilDTO
  *
- * @author rafae
+ * @author Rafael Araujo
  */
 class PerfilDTO {
     
